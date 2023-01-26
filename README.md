@@ -1,1 +1,0 @@
-# cloud_design_assignment
